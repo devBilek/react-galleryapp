@@ -1,0 +1,12 @@
+#navBar {
+  background-color: rgb(94, 94, 94);
+}
+#navBar #searchInput {
+  border-radius: 10px 0 0 10px;
+}
+#navBar #searchBtn {
+  border-radius: 0;
+}
+#navBar #clearBtn {
+  border-radius: 0 10px 10px 0;
+}
